@@ -8,7 +8,9 @@ Python中的标准库是非常强大的，本章简单介绍一下关于python�
 dis
 ---
 
-这个库可以把python字节码转换成类似于汇编语言的东西，比如我定义一个myfunc::
+这个库可以把python字节码转换成类似于汇编语言的东西，比如我定义一个myfunc:
+
+.. code:: python
 
   def myfunc(alist):
       return len(alist)
