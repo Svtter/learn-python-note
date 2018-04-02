@@ -9,7 +9,8 @@
 
 Remember, that the @decorator syntax is just syntactic sugar; the syntax:
 
-.. code_blocks:: python
+.. code:: python
+
   @property
   def foo(self): return self._foo
 
