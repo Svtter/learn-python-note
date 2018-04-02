@@ -18,3 +18,8 @@ dis
                 3 LOAD_FAST                0 (alist)
                 6 CALL_FUNCTION            1
                 9 RETURN_VALUE
+
+refer
+^^^^^
+
+https://docs.python.org/2/library/dis.html#module-dis
