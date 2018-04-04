@@ -27,3 +27,19 @@ refer
 ^^^^^
 
 https://docs.python.org/2/library/dis.html#module-dis
+
+doctest
+-------
+
+这个库是用来进行文档测试的，在文档中写出这个方法的使用过程。
+
+调用方法是::
+
+    import doctest
+    doctest.testmod()
+    
+如此一来就可以进行相关的测试
+
+refer
+^^^^^^
+https://docs.python.org/3/library/doctest.html
