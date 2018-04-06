@@ -5,7 +5,7 @@
   
 
 装饰器的本质是什么？
------------------
+--------------------
 
 Remember, that the @decorator syntax is just syntactic sugar; the syntax:
 
