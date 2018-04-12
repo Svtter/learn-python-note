@@ -14,7 +14,8 @@ Welcome to Python-Note's documentation!
    descriptor
    standlib
    python2_3/readme
-   codetips
+   codetips
+   notifier
 
 
 
