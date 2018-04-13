@@ -12,7 +12,7 @@ This might help you, though it's not exactly what Spyder offers and is much simp
 
 To get a list of all currently defined variables, run who :
 
-.. code:: ipython
+.. code:: python
 
     In [1]: foo = 'bar'
 
@@ -21,7 +21,7 @@ To get a list of all currently defined variables, run who :
 
 For more detail, run whos:
 
-.. code:: ipython
+.. code:: python
 
     In [3]: whos
     Variable   Type    Data/Info
