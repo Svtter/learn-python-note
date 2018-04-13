@@ -16,6 +16,7 @@ Welcome to Python-Note's documentation!
    python2_3/readme
    codetips
    notifier
+   ipython
 
 
 
