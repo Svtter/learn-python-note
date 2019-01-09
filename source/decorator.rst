@@ -12,7 +12,8 @@ Remember, that the @decorator syntax is just syntactic sugar; the syntax:
 .. code:: python
 
   @property
-  def foo(self): return self._foo
+  def foo(self): 
+      return self._foo
 
 
 really means the same thing as
@@ -20,5 +21,6 @@ really means the same thing as
 
 .. code:: python
 
-  def foo(self): return self._foo
+  def foo(self): 
+      return self._foo
   foo = property(foo)
